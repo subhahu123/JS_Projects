@@ -1,2 +1,2 @@
 
-(JS Issue Tracker.png)
+!(JS Issue Tracker.png)
